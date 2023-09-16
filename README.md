@@ -39,7 +39,7 @@ The primary goal of this project is to develop a movie recommendation system tha
 ###  DATA UNDERSTANDING.
 
 The dataset used in this project is from:
-. Movielens datset from the GroupLens research lab at the University of Minnesota. The dataset was specifically the "small" dataset containing 100,000 user ratings.
+. Movielens dataset from the GroupLens research lab at the University of Minnesota. The dataset was specifically the "small" dataset containing 100,000 user ratings.
 
 . It contains 100836 ratings and 3683 tag applications across 9742 movies. These data were created by 610 users between March 29, 1996 and September 24, 2018. This dataset was generated on September 26, 2018.
 
